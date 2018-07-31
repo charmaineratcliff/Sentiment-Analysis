@@ -1,0 +1,12 @@
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\bin\Debug\Final Project.exe.config
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\bin\Debug\Final Project.exe
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\bin\Debug\Final Project.pdb
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.Cache
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\obj\Debug\Final Project.exe
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\obj\Debug\Final Project.pdb
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\obj\Debug\Final_Project.NegativeWordsChart.resources
+\\Mac\Google Drive\CHR - MAC\COLLEGE\ECU\CLASSES\MIS 3673 (601)\Final Project\Final Project\obj\Debug\Final_Project.PositiveWordsChart.resources
