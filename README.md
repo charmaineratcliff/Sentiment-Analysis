@@ -1,4 +1,4 @@
-# sentiment-analysis
+# Sentiment Analysis
 
 This was a great project from my MIS3673 class at ECU during the Spring 2018 semester.  It was a project that required we develop a C# Windows-based application that performed a basic sentiment analysis.  
 
