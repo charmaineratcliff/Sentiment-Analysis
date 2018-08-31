@@ -9,3 +9,8 @@ This application is able to read text from the input in the textbox or from a fi
 The sentiment score is calculated by using this formula: S=(P-N)/(P+N).  
 
 A negative sentiment value is indicated by a negative one, zero means neutral and a positive value is indicated by a positive one.
+
+## Getting Started
+
+1. To run the application, clone or download the repo.
+2. Run the application from the bin/Debug folder > Final Project.exe
