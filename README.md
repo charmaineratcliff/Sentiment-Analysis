@@ -14,3 +14,7 @@ A negative sentiment value is indicated by a negative one, zero means neutral an
 
 1. To run the application, clone or download the repo.
 2. Run the application from the bin/Debug folder > Final Project.exe
+
+## Screenshot
+
+<img src="images/SA-1.png" width="450">
